@@ -1,0 +1,14 @@
+create table ordertable(
+    orderid int primary key identity(1,1),
+    username varchar(30)
+);
+
+create table orderdetail(
+    orderdetailid int primary key identity(1,1),
+    orderid int,  -- Foreign key column to link with ordertable
+    ProductName varchar(30),
+    Quantity int,
+    UnitPrice int,
+    amount as (Quantity * UnitPrice),  -- Computed column
+    foreign key (orderid) references ordertable(orderid) on delete cascade
+);

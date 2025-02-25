@@ -1,0 +1,153 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Table with Data Extraction</title>
+    <style>
+        table {
+            width: 60%;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: center;
+        }
+
+        button {
+            padding: 6px 12px;
+            margin: 5px;
+            cursor: pointer;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .remove-btn {
+            background-color: #e74c3c;
+            color: white;
+            border: none;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="center">
+        <h2>Dynamic Table: Add/Remove Rows & Save Data</h2>
+        <button onclick="addRow()">Add Row</button>
+        <button onclick="saveTableData()">Save Data</button>
+    </div>
+
+    <div class="center">
+        <input type="text" id="txtname" placeholder="Enter Name">
+    </div>
+
+    <table id="dynamicTable">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Product Name</th>
+                <th>Quantity</th>
+                <th>Unit Price</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td><input type="text" placeholder="Product Name"></td>
+                <td><input type="number" placeholder="Quantity"></td>
+                <td><input type="text" placeholder="Unit Price"></td>
+                <td><button class="remove-btn" onclick="removeRow(this)">Remove</button></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        // ✅ Function to add a new row
+        function addRow() {
+            const table = document.getElementById('dynamicTable').getElementsByTagName('tbody')[0];
+            const rowCount = table.rows.length;
+            const newRow = table.insertRow();
+
+            newRow.innerHTML = `
+                <td>${rowCount + 1}</td>
+                <td><input type="text" placeholder="Product Name"></td>
+                <td><input type="number" placeholder="Quantity"></td>
+                <td><input type="text" placeholder="Unit Price"></td>
+                <td><button class="remove-btn" onclick="removeRow(this)">Remove</button></td>
+            `;
+
+            updateRowNumbers();
+        }
+
+        // ✅ Function to remove a specific row
+        function removeRow(button) {
+            const table = document.getElementById('dynamicTable').getElementsByTagName('tbody')[0];
+            if (table.rows.length > 1) {
+                const row = button.parentNode.parentNode;
+                table.deleteRow(row.rowIndex - 1);
+                updateRowNumbers();
+            } else {
+                alert("At least one row must remain.");
+            }
+        }
+
+        // ✅ Function to update row numbers after add/remove
+        function updateRowNumbers() {
+            const table = document.getElementById('dynamicTable').getElementsByTagName('tbody')[0];
+            for (let i = 0; i < table.rows.length; i++) {
+                table.rows[i].cells[0].innerText = i + 1;
+            }
+        }
+
+        // ✅ Function to extract table data and send via AJAX
+                    function saveTableData() {
+            var name = document.getElementById('txtname').value;  // Get user name
+            const table = document.getElementById('dynamicTable').getElementsByTagName('tbody')[0];
+            let tableData = []; // Declare the array to hold table data
+
+            // Loop through table rows to capture input values
+            for (let i = 0; i < table.rows.length; i++) {
+                const row = table.rows[i];
+                const rowData = {
+                    ProductName: row.cells[1].querySelector('input').value,
+                    Quantity: row.cells[2].querySelector('input').value, // Expecting a number (string for now)
+                    UnitPrice: row.cells[3].querySelector('input').value  // Expecting a number (string for now)
+                };
+                tableData.push(rowData);
+            }
+
+            // Wrap the userName and tableData in a parent object
+            const postData = {
+                UserName: name,
+                tableData: tableData
+            };
+
+            // Send data to the controller via AJAX
+            $.ajax({
+                type: "POST",
+                url: "/Home/SaveTableData", // Make sure this URL matches your route
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(postData),  // Send the wrapped object
+                success: function (response) {
+                    alert("Data saved successfully!");
+                    console.log("Server Response:", response);
+                },
+                error: function (error) {
+                    alert("Error saving data.");
+                    console.error("Error:", error);
+                }
+            });
+        }
+
+    </script>
+
+</body>
+</html>

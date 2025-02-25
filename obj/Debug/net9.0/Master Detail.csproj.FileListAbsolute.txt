@@ -1,0 +1,232 @@
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\appsettings.json
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Master Detail.staticwebassets.runtime.json
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Master Detail.staticwebassets.endpoints.json
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Master Detail.exe
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Master Detail.deps.json
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Master Detail.runtimeconfig.json
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Master Detail.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Master Detail.pdb
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Humanizer.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KH\source\repos\Master Detail\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\Master Detail.csproj.AssemblyReference.cache
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\Master Detail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\Master Detail.AssemblyInfoInputs.cache
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\Master Detail.AssemblyInfo.cs
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\Master Detail.csproj.CoreCompileInputs.cache
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\Master Detail.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\Master Detail.RazorAssemblyInfo.cache
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\Master Detail.RazorAssemblyInfo.cs
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\scopedcss\bundle\Master Detail.styles.css
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\scopedcss\projectbundle\Master Detail.bundle.scp.css
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\vixg74jflu-b9sayid5wm.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\55csgikp0k-61n19gt1b8.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\bvs13q6ikn-xtxxf3hu2r.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\ejq2sa3bb8-bqjiyaj88i.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\sdr29veced-c2jlpeoesf.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\6c352kcxdh-erw9l3u2r3.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\8n33xpstdt-aexeepp0ev.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\7dnj1aixmi-d7shbmvgxk.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\e3ifldvusl-ausgxo2sd3.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\7siqckkxug-k8d9w2qqmf.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\geswgsnyl3-cosvhxvwiu.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\978soehxmo-ub07r2b239.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\xd3pu8wkxj-fvhpjtyr6v.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\pxqemz5qze-b7pk76d08c.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\kux7egmj9c-fsbi9cje9m.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\5xgrf744na-rzd6atqjts.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\qhn6ey3fa9-ee0r1s7dh0.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\r79b3mlqvt-dxx9fxp4il.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\l4vz8ggwki-jd9uben2k1.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\fab652w8h0-khv3u5hwcm.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\j9fiq1c15p-r4e9w2rdcm.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\iqosyl3rw9-lcd1t2u6c8.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\v2soli93bi-c2oey78nd0.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\gjx9m1u4f6-tdbxkamptv.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\hk1n8zqz2w-j5mq2jizvt.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\jqw4z8k0zs-06098lyss8.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\gyp124bsl8-nvvlpmu67g.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\aa7cqe4v99-s35ty4nyc5.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\3zmlvevvud-pj5nd1wqec.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\xb4m2k5lsd-46ein0sx1k.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\3xmwyoyw5x-v0zj4ognzu.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\8srylj033p-37tfw0ft22.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\fk6zr0qa9l-hrwsygsryq.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\mnid62wd4d-pk9g2wxc8p.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\4iaxz9k9f2-ft3s53vfgj.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\ti8bni241t-6cfz1n2cew.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\7er90fwy0t-6pdc2jztkx.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\doqqdzjjoa-493y06b0oq.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\gbezjax0w2-iovd86k7lj.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\gii8ki6fq4-vr1egmr9el.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\y2u6wolt0c-kbrnm935zg.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\mt675wi63p-jj8uyg4cgr.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\alyor7l0mg-y7v9cxd14o.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\whtxnrf5ia-notf2xhcfb.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\dud82guwff-h1s4sie4z3.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\pg4wp7ihrn-63fj8s7r0e.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\fc3fr8yjez-0j3bgjxly4.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\qgqx6jo63g-47otxtyo56.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\g6lp2vbi31-4v8eqarkd7.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\w3zynf9co2-356vix0kms.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\hycg40i6i7-83jwlth58m.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\wb2u7w5bhv-mrlpezrjn3.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\awdze5anit-lzl9nlhx6b.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\zesg2jufgp-ag7o75518u.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\lnoxt4gqwc-x0q3zqp4vz.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\hbmbrpodpt-0i3buxo5is.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\owhbek3dn3-o1o13a6vjx.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\zpyt7l1m80-ttgo8qnofa.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\yiwyrve5vj-2z0ns9nrw6.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\pl4sdtwuwd-muycvpuwrr.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\jvweoggzo9-87fc7y1x7t.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\ps2gccc13e-mlv21k5csn.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\klkkb5pwun-fdvosf385m.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\compressed\zhfk9nz7yg-fdvosf385m.gz
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\staticwebassets\msbuild.Master Detail.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\staticwebassets\msbuild.Master Detail.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\staticwebassets\msbuild.build.Master Detail.props
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Master Detail.props
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Master Detail.props
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\Master D.1E6C1EE6.Up2Date
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\Master Detail.dll
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\refint\Master Detail.dll
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\Master Detail.pdb
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\Master Detail.genruntimeconfig.cache
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\ref\Master Detail.dll
+C:\Users\KH\source\repos\Master Detail\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
